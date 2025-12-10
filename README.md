@@ -1,6 +1,6 @@
-# 🚀 Desafio Bootcamp Santander & DIO - Inteligência Artificial
+# 🚀 Desafio Bootcamp CAIXA & DIO - Inteligência Artificial
 
-Este repositório faz parte de um **desafio do Bootcamp Santander em parceria com a DIO** na trilha de **Inteligência Artificial**.  
+Este repositório faz parte de um **desafio do "Bootcamp CAIXA - Inteligência Artificial na Prática" em parceria com a DIO** na trilha de **Inteligência Artificial**.  
 
 Durante este desafio, explorei como transformar minhas habilidades em oportunidades reais de atuação como **freelancer em tecnologia**. Entre os pontos trabalhados estão:  
 
@@ -17,8 +17,8 @@ O objetivo deste desafio é aplicar conceitos de **Inteligência Artificial** al
 
 ---
 
-## 📚 Bootcamp Santander & DIO
-Este projeto integra o Bootcamp Santander em parceria com a [Digital Innovation One (DIO)](https://www.dio.me), que oferece capacitação em tecnologia e inteligência artificial para preparar profissionais para os desafios do futuro.  
+## 📚 Bootcamp CAIXA & DIO
+Este projeto integra o Bootcamp [CAIXA Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx) em parceria com a [Digital Innovation One (DIO)](https://www.dio.me), que oferece capacitação em tecnologia e inteligência artificial para preparar profissionais para os desafios do futuro.  
 
 ---
 ✨ *Este README simboliza minha participação e aprendizado neste desafio, unindo tecnologia, idiomas e design para criar soluções digitais organizadas e de impacto.*
