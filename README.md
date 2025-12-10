@@ -1,3 +1,5 @@
+<img align="right" width="180" height="160" alt="image" src="https://github.com/user-attachments/assets/8d9f92e1-72f8-452b-ad3f-cf1e96c9df3b" />
+
 # 🚀 Desafio Bootcamp CAIXA & DIO - Inteligência Artificial
 
 Este repositório faz parte de um **desafio do "Bootcamp CAIXA - Inteligência Artificial na Prática" em parceria com a DIO** na trilha de **Inteligência Artificial**.  
